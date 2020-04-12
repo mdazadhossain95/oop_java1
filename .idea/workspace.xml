@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ec10db9-917f-4083-8343-e2d42e6dd994" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myAutoScrollToSource" value="true" />
+    <option name="myElementSize" value="153" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/mdazadhossain95/oop_java.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YJaMjq7H27CDKU0bzNlVeWkEHD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="if_else_statrmant" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.minimum_and_maximum">
+    <configuration name="Java_Stdin_and_Stdout_II$Solution" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Stdin_and_Stdout_II$Solution" />
+      <module name="oop_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Keywords_and_Expressaions" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Keywords_and_Expressaions" />
+      <module name="oop_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="byteshortint" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="byteshortint" />
+      <module name="oop_Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="minimum_and_maximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="minimum_and_maximum" />
+      <module name="oop_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parsing_value_from_a_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parsing_value_from_a_string" />
+      <module name="oop_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reading_user_input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reading_user_input" />
+      <module name="oop_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reading_user_input_challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reading_user_input_challenge" />
+      <module name="oop_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="string" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string" />
+      <module name="oop_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sum_challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sum_challenge" />
+      <module name="oop_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.byteshortint" />
+      <item itemvalue="Application.Keywords_and_Expressaions" />
+      <item itemvalue="Application.string" />
+      <item itemvalue="Application.Java_Stdin_and_Stdout_II$Solution" />
+      <item itemvalue="Application.sum_challenge" />
+      <item itemvalue="Application.parsing_value_from_a_string" />
+      <item itemvalue="Application.reading_user_input" />
+      <item itemvalue="Application.reading_user_input_challenge" />
+      <item itemvalue="Application.minimum_and_maximum" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.minimum_and_maximum" />
+        <item itemvalue="Application.reading_user_input_challenge" />
+        <item itemvalue="Application.reading_user_input" />
+        <item itemvalue="Application.parsing_value_from_a_string" />
+        <item itemvalue="Application.sum_challenge" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ec10db9-917f-4083-8343-e2d42e6dd994" name="Default Changelist" comment="" />
+      <created>1582663104869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582663104869</updated>
+    </task>
+    <task id="LOCAL-00001" summary="new class adding">
+      <created>1584616604127</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584616604127</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="new class adding" />
+    <option name="LAST_COMMIT_MESSAGE" value="new class adding" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="495" y="81" key="#Welcome" timestamp="1584732077198">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="495" y="81" key="#Welcome/0.0.1536.824@0.0.1536.824" timestamp="1584732077198" />
+    <state x="447" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584614382261">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584614382261" />
+    <state x="792" y="109" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1584884896280">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="792" y="109" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584884896280" />
+    <state x="958" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1583014672970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="958" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1583014672970" />
+    <state x="883" y="193" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1582932654036">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="883" y="193" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1582932654036" />
+    <state x="721" y="205" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584613901502">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="721" y="205" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1584613901502" />
+    <state x="894" y="291" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584781194601">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="894" y="291" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1584781194601" />
+    <state x="821" y="14" key="CommitChangelistDialog2" timestamp="1584616603485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="821" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584616603485" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1583015839829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1583015839829" />
+    <state x="549" y="170" width="453" height="543" key="FileChooserDialogImpl" timestamp="1585056694479">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585056694479" />
+    <state x="717" y="235" width="453" height="543" key="FileChooserDialogImpl/48.24.1872.1023@48.24.1872.1023" timestamp="1584901308138" />
+    <state width="316" height="872" key="GridCell.Tab.0.bottom" timestamp="1586364841229">
+      <screen x="48" y="24" width="1872" height="1023" />
+    </state>
+    <state width="237" height="695" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585059782737" />
+    <state width="316" height="872" key="GridCell.Tab.0.bottom/48.24.1872.1023@48.24.1872.1023" timestamp="1586364841229" />
+    <state width="316" height="872" key="GridCell.Tab.0.center" timestamp="1586364841229">
+      <screen x="48" y="24" width="1872" height="1023" />
+    </state>
+    <state width="237" height="695" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585059782737" />
+    <state width="316" height="872" key="GridCell.Tab.0.center/48.24.1872.1023@48.24.1872.1023" timestamp="1586364841229" />
+    <state width="316" height="872" key="GridCell.Tab.0.left" timestamp="1586364841229">
+      <screen x="48" y="24" width="1872" height="1023" />
+    </state>
+    <state width="237" height="695" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585059782736" />
+    <state width="316" height="872" key="GridCell.Tab.0.left/48.24.1872.1023@48.24.1872.1023" timestamp="1586364841229" />
+    <state width="316" height="872" key="GridCell.Tab.0.right" timestamp="1586364841229">
+      <screen x="48" y="24" width="1872" height="1023" />
+    </state>
+    <state width="237" height="695" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585059782737" />
+    <state width="316" height="872" key="GridCell.Tab.0.right/48.24.1872.1023@48.24.1872.1023" timestamp="1586364841229" />
+    <state width="890" height="332" key="GridCell.Tab.1.bottom" timestamp="1586331628140">
+      <screen x="48" y="24" width="1872" height="1023" />
+    </state>
+    <state width="723" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584790619020" />
+    <state width="890" height="332" key="GridCell.Tab.1.bottom/48.24.1872.1023@48.24.1872.1023" timestamp="1586331628140" />
+    <state width="890" height="332" key="GridCell.Tab.1.center" timestamp="1586331628140">
+      <screen x="48" y="24" width="1872" height="1023" />
+    </state>
+    <state width="723" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584790619019" />
+    <state width="890" height="332" key="GridCell.Tab.1.center/48.24.1872.1023@48.24.1872.1023" timestamp="1586331628140" />
+    <state width="890" height="332" key="GridCell.Tab.1.left" timestamp="1586331628140">
+      <screen x="48" y="24" width="1872" height="1023" />
+    </state>
+    <state width="723" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584790619019" />
+    <state width="890" height="332" key="GridCell.Tab.1.left/48.24.1872.1023@48.24.1872.1023" timestamp="1586331628140" />
+    <state width="890" height="332" key="GridCell.Tab.1.right" timestamp="1586331628140">
+      <screen x="48" y="24" width="1872" height="1023" />
+    </state>
+    <state width="723" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584790619020" />
+    <state width="890" height="332" key="GridCell.Tab.1.right/48.24.1872.1023@48.24.1872.1023" timestamp="1586331628140" />
+    <state x="947" y="126" key="RollbackChangesDialog" timestamp="1584616365384">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="947" y="126" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584616365384" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1585056825648">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585056825648" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1585046418369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585046418369" />
+    <state x="629" y="322" key="com.intellij.ide.util.TipDialog/48.24.1872.1023@48.24.1872.1023" timestamp="1584898756149" />
+    <state x="964" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583015268551">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="964" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1583015268551" />
+    <state x="347" y="151" width="841" height="553" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1584781263874">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="151" width="841" height="553" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1584781263874" />
+    <state x="1185" y="288" width="556" height="503" key="extract.method.dialog" timestamp="1584967413294">
+      <screen x="48" y="24" width="1872" height="1023" />
+    </state>
+    <state x="1185" y="288" width="556" height="503" key="extract.method.dialog/48.24.1872.1023@48.24.1872.1023" timestamp="1584967413294" />
+    <state x="431" y="212" width="663" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1583007048214">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="212" width="663" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1583007048214" />
+    <state x="861" y="50" key="refactoring.ChangeSignatureDialog" timestamp="1585055574170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="861" y="50" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1585055574170" />
+    <state x="566" y="256" width="819" height="841" key="run.anything.popup" timestamp="1586317659717">
+      <screen x="48" y="24" width="1872" height="1023" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585055051144" />
+    <state x="566" y="256" width="819" height="841" key="run.anything.popup/48.24.1872.1023@48.24.1872.1023" timestamp="1586317659717" />
+    <state x="1040" y="204" width="819" height="842" key="search.everywhere.popup" timestamp="1586319434838">
+      <screen x="48" y="24" width="1872" height="1023" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585055045191" />
+    <state x="1040" y="204" width="819" height="842" key="search.everywhere.popup/48.24.1872.1023@48.24.1872.1023" timestamp="1586319434838" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/seconds_and_minutes.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/the_switch_challenge.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/the_for_loop_statement.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/oop_Java$if_else_statrmant.ic" NAME="if_else_statrmant Coverage Results" MODIFIED="1584616417995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/oop_Java$HeckerRank_example_soliution.ic" NAME="HeckerRank_example_soliution Coverage Results" MODIFIED="1584616348403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/oop_Java$Keywords_and_Expressaions.ic" NAME="Keywords_and_Expressaions Coverage Results" MODIFIED="1583015839953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/oop_Java$string.ic" NAME="string Coverage Results" MODIFIED="1582710325890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
