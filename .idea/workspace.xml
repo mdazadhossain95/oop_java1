@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ec10db9-917f-4083-8343-e2d42e6dd994" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/src/car.java" beforeDir="false" afterPath="$PROJECT_DIR$/classes/src/car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/classes/src/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consteuctors/src/account.java" beforeDir="false" afterPath="$PROJECT_DIR$/consteuctors/src/account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consteuctors/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/consteuctors/src/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consteuctors/src/main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/consteuctors/src/main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consteuctors/src/vipperson.java" beforeDir="false" afterPath="$PROJECT_DIR$/consteuctors/src/vipperson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/information.txt" beforeDir="false" afterPath="$PROJECT_DIR$/information.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/src/animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance/src/animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/src/car.java" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance/src/car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/src/dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance/src/dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/src/fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance/src/fish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance/src/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/src/main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance/src/main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/src/outlander.java" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance/src/outlander.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance/src/vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance/src/vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/oop_Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Char_And_Boolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Char_And_Boolean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FloatAndDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FloatAndDouble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Float_Double_pound_to_kilogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Float_Double_pound_to_kilogram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeckerRank_example_soliution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeckerRank_example_soliution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Stdin_and_Stdout_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Stdin_and_Stdout_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Keywords_and_Expressaions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Keywords_and_Expressaions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/byteshortint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byteshortint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_type_operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_type_operators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/if_else_statrmant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/if_else_statrmant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/int_byte_short_long.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/int_byte_short_long.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
