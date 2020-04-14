@@ -2,7 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ec10db9-917f-4083-8343-e2d42e6dd994" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/challenge_encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenge_encapsulation_printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenge_polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composion_dimensions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composition_badroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composition_badroom_bad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composition_bedroom_wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composition_car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composition_case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composition_monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composition_motherboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composition_pc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composition_resolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composition_vhicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compositon_badroom_celling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compositon_badroom_lamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compotion_dimendions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation_enhanceplayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation_player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop_java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +58,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1YJaMjq7H27CDKU0bzNlVeWkEHD" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -46,18 +71,23 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/ATM-Banking-System-Students3k.com" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="coverage" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="if_else_statrmant" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.main1 (1)">
+  <component name="RunManager" selected="Application.challenge_polymorphism">
     <configuration name="Java_Stdin_and_Stdout_II$Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Stdin_and_Stdout_II$Solution" />
       <module name="oop_Java" />
@@ -72,6 +102,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.touhid.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.touhid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="byteshortint" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="byteshortint" />
       <module name="oop_Java" />
@@ -80,37 +122,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
-      <module name="consteuctors" />
+    <configuration name="challenge_encapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenge_encapsulation" />
+      <module name="oop_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
-      <module name="inheritance" />
+    <configuration name="challenge_polymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenge_polymorphism" />
+      <module name="oop_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
-      <module name="classes" />
+    <configuration name="homewor_week_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homewor_week_8" />
+      <module name="homworks" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main1" />
-      <module name="inheritance" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main1" />
-      <module name="consteuctors" />
+    <configuration name="polymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphism" />
+      <module name="oop_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -127,19 +162,19 @@
       <item itemvalue="Application.Keywords_and_Expressaions" />
       <item itemvalue="Application.string" />
       <item itemvalue="Application.Java_Stdin_and_Stdout_II$Solution" />
-      <item itemvalue="Application.main" />
-      <item itemvalue="Application.main (1)" />
-      <item itemvalue="Application.main1" />
-      <item itemvalue="Application.main (2)" />
-      <item itemvalue="Application.main1 (1)" />
+      <item itemvalue="Application.challenge_encapsulation" />
+      <item itemvalue="Application.polymorphism" />
+      <item itemvalue="Application.challenge_polymorphism" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.homewor_week_8" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main1 (1)" />
-        <item itemvalue="Application.main (2)" />
-        <item itemvalue="Application.main1" />
-        <item itemvalue="Application.main (1)" />
-        <item itemvalue="Application.main" />
+        <item itemvalue="Application.challenge_polymorphism" />
+        <item itemvalue="Application.homewor_week_8" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.polymorphism" />
+        <item itemvalue="Application.challenge_encapsulation" />
       </list>
     </recent_temporary>
   </component>
@@ -183,10 +218,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="new class adding" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1047" y="197" width="800" height="675" key="#Project_Structure" timestamp="1586403355973">
+    <state x="1072" y="120" width="626" height="699" key="#Atm" timestamp="1586678059040">
       <screen x="48" y="24" width="1872" height="1023" />
     </state>
-    <state x="1047" y="197" width="800" height="675" key="#Project_Structure/48.24.1872.1023@48.24.1872.1023" timestamp="1586403355973" />
+    <state x="1072" y="120" width="626" height="699" key="#Atm/48.24.1872.1023@48.24.1872.1023" timestamp="1586678059040" />
+    <state x="1042" y="197" width="800" height="733" key="#Intentions" timestamp="1586851823493">
+      <screen x="48" y="24" width="1872" height="1023" />
+    </state>
+    <state x="1042" y="197" width="800" height="733" key="#Intentions/48.24.1872.1023@48.24.1872.1023" timestamp="1586851823493" />
+    <state x="885" y="184" width="612" height="701" key="#Main" timestamp="1586852641121">
+      <screen x="48" y="24" width="1872" height="1023" />
+    </state>
+    <state x="885" y="184" width="612" height="701" key="#Main/48.24.1872.1023@48.24.1872.1023" timestamp="1586852641121" />
+    <state x="1042" y="197" width="800" height="675" key="#Notifications" timestamp="1586786254080">
+      <screen x="48" y="24" width="1872" height="1023" />
+    </state>
+    <state x="1042" y="197" width="800" height="675" key="#Notifications/48.24.1872.1023@48.24.1872.1023" timestamp="1586786254080" />
+    <state x="1047" y="197" width="800" height="675" key="#Project_Structure" timestamp="1586852838187">
+      <screen x="48" y="24" width="1872" height="1023" />
+    </state>
+    <state x="1047" y="197" width="800" height="675" key="#Project_Structure/48.24.1872.1023@48.24.1872.1023" timestamp="1586852838187" />
     <state x="495" y="81" key="#Welcome" timestamp="1584732077198">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -208,19 +259,28 @@
     </state>
     <state x="792" y="109" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584884896280" />
     <state x="1013" y="159" width="727" height="620" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/48.24.1872.1023@48.24.1872.1023" timestamp="1586403220412" />
-    <state x="1218" y="262" width="374" height="624" key="#com.intellij.ide.util.MemberChooser" timestamp="1586492226019">
+    <state x="1218" y="262" width="374" height="624" key="#com.intellij.ide.util.MemberChooser" timestamp="1586851318018">
       <screen x="48" y="24" width="1872" height="1023" />
     </state>
     <state x="958" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1583014672970" />
-    <state x="1218" y="262" width="374" height="624" key="#com.intellij.ide.util.MemberChooser/48.24.1872.1023@48.24.1872.1023" timestamp="1586492226019" />
-    <state x="883" y="193" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1582932654036">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="1218" y="262" width="374" height="624" key="#com.intellij.ide.util.MemberChooser/48.24.1872.1023@48.24.1872.1023" timestamp="1586851318018" />
+    <state x="1124" y="264" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1586858183266">
+      <screen x="48" y="24" width="1872" height="1023" />
     </state>
     <state x="883" y="193" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1582932654036" />
+    <state x="1124" y="264" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog/48.24.1872.1023@48.24.1872.1023" timestamp="1586858183266" />
     <state x="721" y="205" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584613901502">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="721" y="205" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1584613901502" />
+    <state x="1292" y="461" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586858321193">
+      <screen x="48" y="24" width="1872" height="1023" />
+    </state>
+    <state x="1292" y="461" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/48.24.1872.1023@48.24.1872.1023" timestamp="1586858321193" />
+    <state x="1131" y="24" width="622" height="1021" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586853070617">
+      <screen x="48" y="24" width="1872" height="1023" />
+    </state>
+    <state x="1131" y="24" width="622" height="1021" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/48.24.1872.1023@48.24.1872.1023" timestamp="1586853070617" />
     <state x="894" y="291" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584781194601">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -233,31 +293,31 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1583015839829" />
-    <state x="983" y="63" width="453" height="543" key="FileChooserDialogImpl" timestamp="1586615571775">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="717" y="235" width="453" height="543" key="FileChooserDialogImpl" timestamp="1586678140834">
+      <screen x="48" y="24" width="1872" height="1023" />
     </state>
     <state x="983" y="63" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586615571775" />
-    <state x="717" y="235" width="453" height="543" key="FileChooserDialogImpl/48.24.1872.1023@48.24.1872.1023" timestamp="1584901308138" />
-    <state width="1342" height="195" key="GridCell.Tab.0.bottom" timestamp="1586613776124">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="717" y="235" width="453" height="543" key="FileChooserDialogImpl/48.24.1872.1023@48.24.1872.1023" timestamp="1586678140834" />
+    <state width="322" height="869" key="GridCell.Tab.0.bottom" timestamp="1586858134485">
+      <screen x="48" y="24" width="1872" height="1023" />
     </state>
     <state width="1342" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586613776124" />
-    <state width="420" height="869" key="GridCell.Tab.0.bottom/48.24.1872.1023@48.24.1872.1023" timestamp="1586495630315" />
-    <state width="1342" height="195" key="GridCell.Tab.0.center" timestamp="1586613776124">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="322" height="869" key="GridCell.Tab.0.bottom/48.24.1872.1023@48.24.1872.1023" timestamp="1586858134485" />
+    <state width="322" height="869" key="GridCell.Tab.0.center" timestamp="1586858134484">
+      <screen x="48" y="24" width="1872" height="1023" />
     </state>
     <state width="1342" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586613776124" />
-    <state width="420" height="869" key="GridCell.Tab.0.center/48.24.1872.1023@48.24.1872.1023" timestamp="1586495630315" />
-    <state width="1342" height="195" key="GridCell.Tab.0.left" timestamp="1586613776124">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="322" height="869" key="GridCell.Tab.0.center/48.24.1872.1023@48.24.1872.1023" timestamp="1586858134484" />
+    <state width="322" height="869" key="GridCell.Tab.0.left" timestamp="1586858134483">
+      <screen x="48" y="24" width="1872" height="1023" />
     </state>
     <state width="1342" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586613776124" />
-    <state width="420" height="869" key="GridCell.Tab.0.left/48.24.1872.1023@48.24.1872.1023" timestamp="1586495630315" />
-    <state width="1342" height="195" key="GridCell.Tab.0.right" timestamp="1586613776124">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="322" height="869" key="GridCell.Tab.0.left/48.24.1872.1023@48.24.1872.1023" timestamp="1586858134483" />
+    <state width="322" height="869" key="GridCell.Tab.0.right" timestamp="1586858134484">
+      <screen x="48" y="24" width="1872" height="1023" />
     </state>
     <state width="1342" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586613776124" />
-    <state width="420" height="869" key="GridCell.Tab.0.right/48.24.1872.1023@48.24.1872.1023" timestamp="1586495630315" />
+    <state width="322" height="869" key="GridCell.Tab.0.right/48.24.1872.1023@48.24.1872.1023" timestamp="1586858134484" />
     <state width="890" height="332" key="GridCell.Tab.1.bottom" timestamp="1586331628140">
       <screen x="48" y="24" width="1872" height="1023" />
     </state>
@@ -282,15 +342,16 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="947" y="126" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584616365384" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1586613860306">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="272" y="24" key="SettingsEditor" timestamp="1586844998806">
+      <screen x="48" y="24" width="1872" height="1023" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586613860306" />
-    <state x="629" y="322" key="com.intellij.ide.util.TipDialog" timestamp="1586665401902">
+    <state x="272" y="24" key="SettingsEditor/48.24.1872.1023@48.24.1872.1023" timestamp="1586844998806" />
+    <state x="629" y="322" key="com.intellij.ide.util.TipDialog" timestamp="1586774980463">
       <screen x="48" y="24" width="1872" height="1023" />
     </state>
     <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585046418369" />
-    <state x="629" y="322" key="com.intellij.ide.util.TipDialog/48.24.1872.1023@48.24.1872.1023" timestamp="1586665401902" />
+    <state x="629" y="322" key="com.intellij.ide.util.TipDialog/48.24.1872.1023@48.24.1872.1023" timestamp="1586774980463" />
     <state x="964" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583015268551">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -303,11 +364,11 @@
       <screen x="48" y="24" width="1872" height="1023" />
     </state>
     <state x="1185" y="288" width="556" height="503" key="extract.method.dialog/48.24.1872.1023@48.24.1872.1023" timestamp="1584967413294" />
-    <state x="349" y="37" width="1109" height="678" key="new project wizard" timestamp="1586615573644">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="391" y="101" width="1109" height="678" key="new project wizard" timestamp="1586853457066">
+      <screen x="48" y="24" width="1872" height="1023" />
     </state>
     <state x="349" y="37" width="1109" height="678" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1586615573644" />
-    <state x="672" y="114" width="1238" height="841" key="new project wizard/48.24.1872.1023@48.24.1872.1023" timestamp="1586422121223" />
+    <state x="391" y="101" width="1238" height="841" key="new project wizard/48.24.1872.1023@48.24.1872.1023" timestamp="1586853457066" />
     <state x="431" y="212" width="663" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1583007048214">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -321,11 +382,11 @@
     </state>
     <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585055051144" />
     <state x="566" y="256" width="819" height="841" key="run.anything.popup/48.24.1872.1023@48.24.1872.1023" timestamp="1586317659717" />
-    <state x="1040" y="204" width="819" height="842" key="search.everywhere.popup" timestamp="1586489258162">
+    <state x="1040" y="204" width="819" height="842" key="search.everywhere.popup" timestamp="1586836747756">
       <screen x="48" y="24" width="1872" height="1023" />
     </state>
     <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585055045191" />
-    <state x="1040" y="204" width="819" height="842" key="search.everywhere.popup/48.24.1872.1023@48.24.1872.1023" timestamp="1586489258162" />
+    <state x="1040" y="204" width="819" height="842" key="search.everywhere.popup/48.24.1872.1023@48.24.1872.1023" timestamp="1586836747756" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
