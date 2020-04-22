@@ -1,418 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ec10db9-917f-4083-8343-e2d42e6dd994" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/challenge_encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/challenge_encapsulation_printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/challenge_polymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composion_dimensions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composition_badroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composition_badroom_bad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composition_bedroom_wall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composition_car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composition_case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composition_monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composition_motherboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composition_pc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composition_resolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composition_vhicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/compositon_badroom_celling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/compositon_badroom_lamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/compotion_dimendions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation_enhanceplayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation_player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism.java" afterDir="false" />
+    <list default="true" id="a20523de-e820-4313-a1ec-4a67357966af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/classes/.idea/classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consteuctors/.idea/consteuctors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consteuctors/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consteuctors/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/.idea/inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/.idea/out.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract/CanFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract2/ListItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract2/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract2/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract2/NodeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract2/SearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array_challenge_mobilephone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/autoboxing_and_unboxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/autoboxing_and_unboxing_challenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenge_arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenge_inner_classes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenge_linkedlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heckerrank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inner_classes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/ISaveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/challenge_main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/deskphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/itelephone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/mobilephone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_and_arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/minimun_element_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverse_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop_java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/Char_And_Boolean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/Diamond_star_pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/FloatAndDouble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/Float_Double_pound_to_kilogram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/HeckerRank_example_soliution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/Java_Stdin_and_Stdout_II$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/Java_Stdin_and_Stdout_II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/Keywords_and_Expressaions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/META-INF/oop_Java.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/Speed_converter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/Statements_Whitespaceand_Indentation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/byteshortint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/challenge_encapsulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/challenge_encapsulation_printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/challenge_polymorphism$car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/challenge_polymorphism$mitsubishi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/challenge_polymorphism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/composion_dimensions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/composition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/composition_badroom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/composition_badroom_bad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/composition_bedroom_wall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/composition_car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/composition_case.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/composition_monitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/composition_motherboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/composition_pc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/composition_resolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/composition_vhicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/compositon_badroom_celling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/compositon_badroom_lamp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/control_structure_loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/data_type_operators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/day_of_the_week.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/encapsulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/encapsulation_enhanceplayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/encapsulation_player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/example_trying.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/forgerable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/if_else_assignment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/if_else_statrmant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/ifkey_and_codeblock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/indendenceday.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/int_byte_short_long.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/jaws.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/loop_while_do_for.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/mazerunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/methids_a_challenge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/methods_in_java.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/minimum_and_maximum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/movie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/overload_method_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/overloading_method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/parsing_value_from_a_string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/polymorphism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/reading_user_input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/reading_user_input_challenge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/seconds_and_minutes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/sterwars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/sum_3_and_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/sum_challenge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/switch_assignment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/the_for_loop_statement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/the_switch_challenge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/the_switch_statement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/the_while_and_do_while.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/while_and_do_while_challenge.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageViewManager">
-    <option name="myAutoScrollToSource" value="true" />
-    <option name="myElementSize" value="153" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="FxmlFile" />
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="hiddenUrls">
-      <set>
-        <option value="https://github.com/mdazadhossain95/oop_java.git" />
-      </set>
-    </option>
-  </component>
-  <component name="ProjectId" id="1YJaMjq7H27CDKU0bzNlVeWkEHD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1amrn2wHJegYVFyAZs8qY83oO86" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/ATM-Banking-System-Students3k.com" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="copyright" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-  </component>
-  <component name="RunAnythingCache">
-    <option name="myCommands">
-      <command value="if_else_statrmant" />
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.challenge_polymorphism">
-    <configuration name="Java_Stdin_and_Stdout_II$Solution" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Stdin_and_Stdout_II$Solution" />
-      <module name="oop_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Keywords_and_Expressaions" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Keywords_and_Expressaions" />
-      <module name="oop_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.touhid.Main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.touhid.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="byteshortint" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="byteshortint" />
-      <module name="oop_Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="challenge_encapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenge_encapsulation" />
-      <module name="oop_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="challenge_polymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenge_polymorphism" />
-      <module name="oop_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="homewor_week_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homewor_week_8" />
-      <module name="homworks" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="polymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="polymorphism" />
-      <module name="oop_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="string" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string" />
-      <module name="oop_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.byteshortint" />
-      <item itemvalue="Application.Keywords_and_Expressaions" />
-      <item itemvalue="Application.string" />
-      <item itemvalue="Application.Java_Stdin_and_Stdout_II$Solution" />
-      <item itemvalue="Application.challenge_encapsulation" />
-      <item itemvalue="Application.polymorphism" />
-      <item itemvalue="Application.challenge_polymorphism" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.homewor_week_8" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.challenge_polymorphism" />
-        <item itemvalue="Application.homewor_week_8" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.polymorphism" />
-        <item itemvalue="Application.challenge_encapsulation" />
-      </list>
-    </recent_temporary>
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9ec10db9-917f-4083-8343-e2d42e6dd994" name="Default Changelist" comment="" />
-      <created>1582663104869</created>
+      <changelist id="a20523de-e820-4313-a1ec-4a67357966af" name="Default Changelist" comment="" />
+      <created>1587351773060</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582663104869</updated>
+      <updated>1587351773060</updated>
     </task>
-    <task id="LOCAL-00001" summary="new class adding">
-      <created>1584616604127</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1584616604127</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="new class adding" />
-    <option name="LAST_COMMIT_MESSAGE" value="new class adding" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="1072" y="120" width="626" height="699" key="#Atm" timestamp="1586678059040">
+    <state x="1225" y="293" width="424" height="482" key="FileChooserDialogImpl" timestamp="1587374577571">
       <screen x="48" y="24" width="1872" height="1023" />
     </state>
-    <state x="1072" y="120" width="626" height="699" key="#Atm/48.24.1872.1023@48.24.1872.1023" timestamp="1586678059040" />
-    <state x="1042" y="197" width="800" height="733" key="#Intentions" timestamp="1586851823493">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state x="1042" y="197" width="800" height="733" key="#Intentions/48.24.1872.1023@48.24.1872.1023" timestamp="1586851823493" />
-    <state x="885" y="184" width="612" height="701" key="#Main" timestamp="1586852641121">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state x="885" y="184" width="612" height="701" key="#Main/48.24.1872.1023@48.24.1872.1023" timestamp="1586852641121" />
-    <state x="1042" y="197" width="800" height="675" key="#Notifications" timestamp="1586786254080">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state x="1042" y="197" width="800" height="675" key="#Notifications/48.24.1872.1023@48.24.1872.1023" timestamp="1586786254080" />
-    <state x="1047" y="197" width="800" height="675" key="#Project_Structure" timestamp="1586852838187">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state x="1047" y="197" width="800" height="675" key="#Project_Structure/48.24.1872.1023@48.24.1872.1023" timestamp="1586852838187" />
-    <state x="495" y="81" key="#Welcome" timestamp="1584732077198">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="495" y="81" key="#Welcome/0.0.1536.824@0.0.1536.824" timestamp="1584732077198" />
-    <state x="1141" y="198" width="612" height="673" key="#classes_part1" timestamp="1586403419828">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state x="1141" y="198" width="612" height="673" key="#classes_part1/48.24.1872.1023@48.24.1872.1023" timestamp="1586403419828" />
-    <state x="447" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584614382261">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="447" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584614382261" />
-    <state x="1201" y="338" width="492" height="392" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586403168579">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state x="1201" y="338" width="492" height="392" key="#com.intellij.fileTypes.FileTypeChooser/48.24.1872.1023@48.24.1872.1023" timestamp="1586403168579" />
-    <state x="1013" y="159" width="727" height="620" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1586403220412">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state x="792" y="109" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584884896280" />
-    <state x="1013" y="159" width="727" height="620" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/48.24.1872.1023@48.24.1872.1023" timestamp="1586403220412" />
-    <state x="1218" y="262" width="374" height="624" key="#com.intellij.ide.util.MemberChooser" timestamp="1586851318018">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state x="958" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1583014672970" />
-    <state x="1218" y="262" width="374" height="624" key="#com.intellij.ide.util.MemberChooser/48.24.1872.1023@48.24.1872.1023" timestamp="1586851318018" />
-    <state x="1124" y="264" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1586858183266">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state x="883" y="193" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1582932654036" />
-    <state x="1124" y="264" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog/48.24.1872.1023@48.24.1872.1023" timestamp="1586858183266" />
-    <state x="721" y="205" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584613901502">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="721" y="205" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1584613901502" />
-    <state x="1292" y="461" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586858321193">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state x="1292" y="461" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/48.24.1872.1023@48.24.1872.1023" timestamp="1586858321193" />
-    <state x="1131" y="24" width="622" height="1021" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586853070617">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state x="1131" y="24" width="622" height="1021" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/48.24.1872.1023@48.24.1872.1023" timestamp="1586853070617" />
-    <state x="894" y="291" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584781194601">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="894" y="291" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1584781194601" />
-    <state x="821" y="14" key="CommitChangelistDialog2" timestamp="1584616603485">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="821" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584616603485" />
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1583015839829">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1583015839829" />
-    <state x="717" y="235" width="453" height="543" key="FileChooserDialogImpl" timestamp="1586678140834">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state x="983" y="63" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586615571775" />
-    <state x="717" y="235" width="453" height="543" key="FileChooserDialogImpl/48.24.1872.1023@48.24.1872.1023" timestamp="1586678140834" />
-    <state width="322" height="869" key="GridCell.Tab.0.bottom" timestamp="1586858134485">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state width="1342" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586613776124" />
-    <state width="322" height="869" key="GridCell.Tab.0.bottom/48.24.1872.1023@48.24.1872.1023" timestamp="1586858134485" />
-    <state width="322" height="869" key="GridCell.Tab.0.center" timestamp="1586858134484">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state width="1342" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586613776124" />
-    <state width="322" height="869" key="GridCell.Tab.0.center/48.24.1872.1023@48.24.1872.1023" timestamp="1586858134484" />
-    <state width="322" height="869" key="GridCell.Tab.0.left" timestamp="1586858134483">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state width="1342" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586613776124" />
-    <state width="322" height="869" key="GridCell.Tab.0.left/48.24.1872.1023@48.24.1872.1023" timestamp="1586858134483" />
-    <state width="322" height="869" key="GridCell.Tab.0.right" timestamp="1586858134484">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state width="1342" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586613776124" />
-    <state width="322" height="869" key="GridCell.Tab.0.right/48.24.1872.1023@48.24.1872.1023" timestamp="1586858134484" />
-    <state width="890" height="332" key="GridCell.Tab.1.bottom" timestamp="1586331628140">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state width="723" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584790619020" />
-    <state width="890" height="332" key="GridCell.Tab.1.bottom/48.24.1872.1023@48.24.1872.1023" timestamp="1586331628140" />
-    <state width="890" height="332" key="GridCell.Tab.1.center" timestamp="1586331628140">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state width="723" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584790619019" />
-    <state width="890" height="332" key="GridCell.Tab.1.center/48.24.1872.1023@48.24.1872.1023" timestamp="1586331628140" />
-    <state width="890" height="332" key="GridCell.Tab.1.left" timestamp="1586331628140">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state width="723" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584790619019" />
-    <state width="890" height="332" key="GridCell.Tab.1.left/48.24.1872.1023@48.24.1872.1023" timestamp="1586331628140" />
-    <state width="890" height="332" key="GridCell.Tab.1.right" timestamp="1586331628140">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state width="723" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584790619020" />
-    <state width="890" height="332" key="GridCell.Tab.1.right/48.24.1872.1023@48.24.1872.1023" timestamp="1586331628140" />
-    <state x="947" y="126" key="RollbackChangesDialog" timestamp="1584616365384">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="947" y="126" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584616365384" />
-    <state x="272" y="24" key="SettingsEditor" timestamp="1586844998806">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586613860306" />
-    <state x="272" y="24" key="SettingsEditor/48.24.1872.1023@48.24.1872.1023" timestamp="1586844998806" />
-    <state x="629" y="322" key="com.intellij.ide.util.TipDialog" timestamp="1586774980463">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585046418369" />
-    <state x="629" y="322" key="com.intellij.ide.util.TipDialog/48.24.1872.1023@48.24.1872.1023" timestamp="1586774980463" />
-    <state x="964" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583015268551">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="964" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1583015268551" />
-    <state x="347" y="151" width="841" height="553" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1584781263874">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="347" y="151" width="841" height="553" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1584781263874" />
-    <state x="1185" y="288" width="556" height="503" key="extract.method.dialog" timestamp="1584967413294">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state x="1185" y="288" width="556" height="503" key="extract.method.dialog/48.24.1872.1023@48.24.1872.1023" timestamp="1584967413294" />
-    <state x="391" y="101" width="1109" height="678" key="new project wizard" timestamp="1586853457066">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state x="349" y="37" width="1109" height="678" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1586615573644" />
-    <state x="391" y="101" width="1238" height="841" key="new project wizard/48.24.1872.1023@48.24.1872.1023" timestamp="1586853457066" />
-    <state x="431" y="212" width="663" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1583007048214">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="212" width="663" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1583007048214" />
-    <state x="861" y="50" key="refactoring.ChangeSignatureDialog" timestamp="1585055574170">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="861" y="50" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1585055574170" />
-    <state x="566" y="256" width="819" height="841" key="run.anything.popup" timestamp="1586317659717">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585055051144" />
-    <state x="566" y="256" width="819" height="841" key="run.anything.popup/48.24.1872.1023@48.24.1872.1023" timestamp="1586317659717" />
-    <state x="1040" y="204" width="819" height="842" key="search.everywhere.popup" timestamp="1586836747756">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585055045191" />
-    <state x="1040" y="204" width="819" height="842" key="search.everywhere.popup/48.24.1872.1023@48.24.1872.1023" timestamp="1586836747756" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/seconds_and_minutes.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/the_switch_challenge.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/the_for_loop_statement.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/oop_Java$HeckerRank_example_soliution.ic" NAME="HeckerRank_example_soliution Coverage Results" MODIFIED="1584616348403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/oop_Java$if_else_statrmant.ic" NAME="if_else_statrmant Coverage Results" MODIFIED="1584616417995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/oop_Java$Keywords_and_Expressaions.ic" NAME="Keywords_and_Expressaions Coverage Results" MODIFIED="1583015839953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/oop_Java$string.ic" NAME="string Coverage Results" MODIFIED="1582710325890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <state x="1225" y="293" width="424" height="482" key="FileChooserDialogImpl/48.24.1872.1023@48.24.1872.1023" timestamp="1587374577571" />
   </component>
 </project>
